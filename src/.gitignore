@@ -8,3 +8,4 @@ cov
 coverage
 obj
 .ntvs_analysis.dat
+*.suo
