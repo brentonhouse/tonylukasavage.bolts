@@ -6,3 +6,5 @@ build
 dist
 cov
 coverage
+obj
+.ntvs_analysis.dat
