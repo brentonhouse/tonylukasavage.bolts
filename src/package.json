@@ -1,5 +1,5 @@
 {
-  "name": "<%= project %>",
+  "name": "@mobile/<%= project %>",
   "version": "0.0.1",
   "description": "<%= description %>",
   "keywords": [],
